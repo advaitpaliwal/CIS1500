@@ -3,7 +3,7 @@
 import java.util.*;
 
 public class exam1 {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         double feet;
         double metres;
 
@@ -11,7 +11,7 @@ public class exam1 {
         Scanner keyboard = new Scanner(System.in);
         feet = keyboard.nextDouble();
 
-        metres = feet/3;
+        metres = feet / 3;
 
         System.out.print("Solution: " + metres + " metres");
 
