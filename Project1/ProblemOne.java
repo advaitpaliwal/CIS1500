@@ -3,7 +3,7 @@ package Project1;
 import java.util.*;
 
 public class ProblemOne {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         //Project name, title, topic
         System.out.println("Advait Paliwal");
@@ -44,7 +44,7 @@ public class ProblemOne {
         Q = scan.nextInt();
 
         //Step 4: Perform Calculations
-        Total = 0.01* P + 0.05*N + 0.1*D + 0.25*Q;
+        Total = 0.01 * P + 0.05 * N + 0.1 * D + 0.25 * Q;
 
         //Step 5: Display output
         System.out.println("\nTotal is $" + Total);

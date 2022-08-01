@@ -1,13 +1,13 @@
 import java.util.Scanner;
 public class User_Information {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String Name;
         int Age;
         double Income;
 
         Name = "";
         Age = 0;
-        Income =0;
+        Income = 0;
 
         Scanner keyboard = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class BMI {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //Step 1: Declare Variables
         double Weight;
         double Height;
@@ -18,8 +18,6 @@ public class BMI {
         Scanner keyboard = new Scanner(System.in);
 
         System.out.println("Enter the person's weight");
-        Weight = keyboard.nextDouble();
-
 
     }
 }

@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 
 public class VolumeGUI {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         double radius;
         double volume;
         String Temp;

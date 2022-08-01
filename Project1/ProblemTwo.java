@@ -3,7 +3,7 @@ package Project1;
 import java.util.*;
 
 public class ProblemTwo {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         //Project name, title, topic
         System.out.println("Advait Paliwal");

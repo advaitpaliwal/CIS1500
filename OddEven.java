@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class OddEven {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int num;
         Scanner keyboard = new Scanner(System.in);
 
@@ -9,9 +9,7 @@ public class OddEven {
         num = keyboard.nextInt();
         if (num % 2 == 0) {
             System.out.println(num + " is even.");
-        }
-
-        else {
+        } else {
             System.out.println(num + " is odd.");
         }
     }
